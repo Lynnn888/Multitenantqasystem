@@ -1,0 +1,17 @@
+# =========================
+# FILE: requirements.txt
+# =========================
+
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+python-multipart
+sentence-transformers
+faiss-cpu
+rank-bm25
+numpy
+pypdf
+openai
+sse-starlette
